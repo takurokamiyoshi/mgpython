@@ -1,2 +1,2 @@
 #MG Python リポジトリ
-Python勉強用。
+Python勉強用です。
